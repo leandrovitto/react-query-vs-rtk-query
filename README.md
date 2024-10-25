@@ -1,5 +1,7 @@
 # react-query and rtk-query 
 
+[Link all'articolo completo e Video](https://rebrand.ly/article_25bbb5)
+
 react-query and rtk-query are both popular libraries in the React ecosystem that aim to simplify data fetching and state management in React applications. While they share some similarities, they have differences in their approaches and features. Let's compare them:
 
 ### `react-query`:
